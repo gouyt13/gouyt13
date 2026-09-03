@@ -1,16 +1,46 @@
-## Hi there 👋
+# Yutong Gou
 
-<!--
-**gouyt13/gouyt13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a researcher at Nanyang Technological University working on
+**vector databases**, **approximate nearest-neighbor search**, and
+**high-dimensional vector quantization**.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library)
+
+A lightweight and efficient implementation of **RaBitQ** and its applications
+in vector search.
+
+[![GitHub stars](https://img.shields.io/github/stars/VectorDB-NTU/RaBitQ-Library?style=flat-square)](https://github.com/VectorDB-NTU/RaBitQ-Library/stargazers)
+[![License](https://img.shields.io/github/license/VectorDB-NTU/RaBitQ-Library?style=flat-square)](https://github.com/VectorDB-NTU/RaBitQ-Library/blob/main/LICENSE)
+
+The library provides:
+
+- efficient RaBitQ encoding and distance estimation;
+- IVF and graph-based vector search integrations;
+- optimized SIMD implementations;
+- C++ and Python interfaces;
+- implementations associated with our recent research.
+
+## Selected Publications
+
+- **SymphonyQG: Towards Symphonious Integration of Quantization and Graph
+  for Approximate Nearest Neighbor Search.**  
+  **Yutong Gou**†, Jianyang Gao†, Yuexuan Xu, and Cheng Long.  
+  *Proceedings of the ACM on Management of Data (SIGMOD 2025).*  
+  [[Paper](https://doi.org/10.1145/3709730)]
+
+- **Practical and Asymptotically Optimal Quantization of High-Dimensional
+  Vectors in Euclidean Space for Approximate Nearest Neighbor Search.**  
+  Jianyang Gao, **Yutong Gou**, Yuexuan Xu, Yongyi Yang, Cheng Long,
+  and Raymond Chi-Wing Wong.  
+  *Proceedings of the ACM on Management of Data (SIGMOD 2025).*  
+  [[Paper](https://doi.org/10.1145/3725413)]
+
+## Contact
+
+- Institution: Nanyang Technological University, Singapore
+- Google Scholar: [Google Scholar]([YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citations?user=zOaG9jMAAAAJ&hl=en))
+- ORCID: [ORCID]([YOUR_ORCID_URL](https://orcid.org/my-orcid?orcid=0009-0007-7005-6463))
+
+> No one is an island, entire of itself.
