@@ -40,7 +40,8 @@ The library provides:
 ## Contact
 
 - Institution: Nanyang Technological University, Singapore
-- Google Scholar: [Google Scholar]([YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citations?user=zOaG9jMAAAAJ&hl=en))
-- ORCID: [ORCID]([YOUR_ORCID_URL](https://orcid.org/my-orcid?orcid=0009-0007-7005-6463))
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=zOaG9jMAAAAJ&hl=en)
+- ORCID: [ORCID](https://orcid.org/my-orcid?orcid=0009-0007-7005-6463)
 
-> No one is an island, entire of itself.
+> No one is an island, entire of itself. And therefore, never send to know for whom the bell tolls. It tolls for thee.
+
