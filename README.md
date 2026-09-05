@@ -41,7 +41,7 @@ The library provides:
 
 - Institution: Nanyang Technological University, Singapore
 - Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=zOaG9jMAAAAJ&hl=en)
-- ORCID: [ORCID](https://orcid.org/my-orcid?orcid=0009-0007-7005-6463)
+- ORCID: [ORCID](https://orcid.org/0009-0007-7005-6463)
 
 > No one is an island, entire of itself. And therefore, never send to know for whom the bell tolls. It tolls for thee.
 
